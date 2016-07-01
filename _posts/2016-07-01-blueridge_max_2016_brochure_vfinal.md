@@ -11,10 +11,10 @@ description: Blue Ridge Max 2016
 app_links: []
 isBasedOnUrl: 'http://online.3dpageflip.com/ilbc/djvd/'
 title: BlueRidge_Max_2016_Brochure_vfinal
-datePublished: '2016-07-01T16:45:16.682Z'
-dateModified: '2016-07-01T16:38:14.235Z'
+datePublished: '2016-07-01T17:10:27.357Z'
+dateModified: '2016-07-01T17:10:24.204Z'
 sourcePath: _posts/2016-07-01-blueridge_max_2016_brochure_vfinal.md
-starred: true
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
