@@ -11,8 +11,8 @@ description: ''
 app_links: []
 isBasedOnUrl: 'http://online.3dpageflip.com/ilbc/xeti/'
 title: Rockbridge_Ranch-Cape_2016_vfinal
-datePublished: '2016-07-01T16:37:51.722Z'
-dateModified: '2016-07-01T16:37:49.771Z'
+datePublished: '2016-07-01T16:37:51.831Z'
+dateModified: '2016-07-01T16:37:51.070Z'
 sourcePath: _posts/2016-07-01-rockbridge_ranch-cape_2016_vfinal.md
 starred: true
 inFeed: true
