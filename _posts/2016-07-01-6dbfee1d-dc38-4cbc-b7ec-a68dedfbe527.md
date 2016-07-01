@@ -1,11 +1,11 @@
 ---
 description: ''
 author: []
-datePublished: '2016-07-01T16:59:24.046Z'
-dateModified: '2016-07-01T16:57:43.724Z'
+datePublished: '2016-07-01T17:12:32.877Z'
+dateModified: '2016-07-01T17:12:32.372Z'
 title: ''
-starred: false
 sourcePath: _posts/2016-07-01-6dbfee1d-dc38-4cbc-b7ec-a68dedfbe527.md
+starred: true
 inFeed: true
 hasPage: true
 inNav: false
