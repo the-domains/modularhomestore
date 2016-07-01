@@ -4,8 +4,15 @@
         <description><![CDATA[building one house at a time... Just for you!]]></description>
         <link>https://thegrid.ai/modularhomestore/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 01 Jul 2016 17:11:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Jul 2016 17:11:43 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/modularhomestore/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/fdbe5d24-0df7-4926-adfa-67d8c875593c.jpg">]]></description>
+            <link>https://thegrid.ai/modularhomestore/9a690602-7756-4c89-9c87-0768685baadf/index.html</link>
+            <guid isPermaLink="false">9a690602-7756-4c89-9c87-0768685baadf</guid>
+            <pubDate>Fri, 01 Jul 2016 17:11:41 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3a33e21c-7835-4da7-9461-308167f6bcc3.jpg">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/modularhomestore/18844a59-2618-4225-99f1-1ea5ab8daad3/index.html</link>
             <guid isPermaLink="false">18844a59-2618-4225-99f1-1ea5ab8daad3</guid>
             <pubDate>Fri, 01 Jul 2016 17:10:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[BlueRidge_Max_2016_Brochure_vfinal]]></title>
-            <description><![CDATA[<article><h1>BlueRidge_Max_2016_Brochure_vfinal</h1><p>Blue Ridge Max 2016</p></article>]]></description>
-            <link>http://online.3dpageflip.com/ilbc/djvd/</link>
-            <guid isPermaLink="false">9eaaf6d3-f7d5-4c18-89a3-34a867187370</guid>
-            <pubDate>Fri, 01 Jul 2016 17:10:27 GMT</pubDate>
         </item>
     </channel>
 </rss>
