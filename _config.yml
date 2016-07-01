@@ -1,0 +1,14 @@
+layout_spectrum: 0.18925081915222108
+typography_spectrum: 0.06879657646641135
+color:
+  brandStrength: 0.27484587230719626
+  lightness: 0.40771995135582983
+  saturation: 0.1742535107769072
+  rhythmicContrast: 0.6613924019038677
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+name: Modularhomestore
