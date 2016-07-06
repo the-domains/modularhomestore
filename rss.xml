@@ -4,15 +4,8 @@
         <description><![CDATA[Building one House at a time... Just for you!]]></description>
         <link>https://thegrid.ai/modularhomestore/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 06 Jul 2016 19:07:54 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Jul 2016 19:07:52 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/modularhomestore/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Summit Catalog]]></title>
-            <description><![CDATA[<article><h1>Summit Catalog</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c7bbdbf1-1934-4c4c-8ea6-7aecc7d88bff.jpg"></article>]]></description>
-            <link>https://thegrid.ai/modularhomestore/85ec3935-ad6c-4b9e-999e-67aaafb32bd6/index.html</link>
-            <guid isPermaLink="false">85ec3935-ad6c-4b9e-999e-67aaafb32bd6</guid>
-            <pubDate>Wed, 06 Jul 2016 19:07:52 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Rockbridge Elite Catalog 2016]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/075138d3-5afa-48d1-863d-7fea6e878c8c.jpg">]]></description>
@@ -26,6 +19,13 @@
             <link>https://thegrid.ai/modularhomestore/9a690602-7756-4c89-9c87-0768685baadf/index.html</link>
             <guid isPermaLink="false">9a690602-7756-4c89-9c87-0768685baadf</guid>
             <pubDate>Fri, 01 Jul 2016 17:11:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c7bbdbf1-1934-4c4c-8ea6-7aecc7d88bff.jpg">]]></description>
+            <link>https://thegrid.ai/modularhomestore/85ec3935-ad6c-4b9e-999e-67aaafb32bd6/index.html</link>
+            <guid isPermaLink="false">85ec3935-ad6c-4b9e-999e-67aaafb32bd6</guid>
+            <pubDate>Fri, 01 Jul 2016 17:11:29 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Rockbridge Elite 2 Featured! ]]></title>
